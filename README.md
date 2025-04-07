@@ -17,9 +17,8 @@ BACKEND DEVELOPER
 
   ## 📩 Reach Out To Me
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jrgaloriodev04@gmail.com)
-<span style="background-color: yellow; padding: 4px; border-radius: 4px; font-weight: bold;">
-  jrgaloriodev04@gmail.com
-</span>
+`jrgaloriodev04@gmail.com`
+
 
 
 
