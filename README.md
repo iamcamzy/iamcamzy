@@ -12,15 +12,18 @@ BACKEND DEVELOPER
 ![](https://github-readme-stats.vercel.app/api?username=iamcamzy&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iamcamzy&theme=github_dark&hide_border=false)<br/>
 
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iamCamzy123?country.x=PH&locale.x=en_US) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iamcamzy75506) 
 
 ## 📩 Reach Out To Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jrgaloriodev04@gmail.com)
+<a href="mailto:jrgaloriodev04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-**📧 jrgaloriodev04@gmail.com**
-
+<span style="background-color: #fff3cd; padding: 4px 8px; border-radius: 6px; font-weight: bold;">
+  jrgaloriodev04@gmail.com
+</span>
 
 
 
