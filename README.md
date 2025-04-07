@@ -15,10 +15,11 @@ BACKEND DEVELOPER
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iamCamzy123?country.x=PH&locale.x=en_US) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iamcamzy75506) 
 
-  ## 📩 Reach Out To Me
-<span style="background-color: yellow;">jrgaloriodev04<!-- -->@gmail.com</span> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jrgaloriodev04@gmail.com)
+## 📩 Reach Out To Me
 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jrgaloriodev04@gmail.com)
 
+**📧 jrgaloriodev04@gmail.com**
 
 
 
