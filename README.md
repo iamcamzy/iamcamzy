@@ -21,7 +21,7 @@ BACKEND DEVELOPER
   </a>
 <p align="center">
   <a style="text-decoration: none; font-weight: bold; font-size: 16px; margin-right: 8px;">
-    jrgaloriodev04@gmail.com
+    # jrgaloriodev04@gmail.com
   </a>
 </p>
 
