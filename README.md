@@ -20,8 +20,8 @@ BACKEND DEVELOPER
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 <p align="center">
-  <a style="text-decoration: none; font-weight: bold; font-size: 16px; margin-right: 8px;">
-    # jrgaloriodev04@gmail.com
+  <a style="text-decoration: none; font-weight: bold; font-size: 50px; margin-right: 8px;">
+    jrgaloriodev04@gmail.com
   </a>
 </p>
 
